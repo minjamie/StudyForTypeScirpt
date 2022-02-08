@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs" // 모듈을 바꿔치기?
+  },
+  "files": [],
+  "include": [],
+  "exclude": []
+}

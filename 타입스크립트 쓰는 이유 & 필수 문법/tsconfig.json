@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5", // 자바스크립트 몇 버젼으로 컴파일 할 건지
+    "module": "commonjs" // 언제적 자바스크립트 문법으로 할건지 import / require
+  }
+}
+// ts -> js 컴파일 시 옵션 설정 가능하다.
